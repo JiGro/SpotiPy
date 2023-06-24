@@ -1,6 +1,6 @@
 # Spotify Repository
 
-![Logo of the Project](https://cdn.pixabay.com/photo/2016/11/03/20/03/music-on-your-smartphone-1796117_1280.jpg)
+![Logo of the Project](https://cdn.pixabay.com/photo/2016/04/28/23/53/spotify-1360002_1280.jpg)
 
 This repository contains Python scripts for archiving and analyzing Spotify playlists using the Spotify Web API.
 
